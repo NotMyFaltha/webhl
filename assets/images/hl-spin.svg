@@ -3,7 +3,7 @@
     #circle {
       stroke-dasharray: 250;
       animation-name: dash;
-      animation-duration: 1s;
+      animation-duration: 604800s;
       animation-iteration-count: infinite;
       animation-direction: normal;
     }
